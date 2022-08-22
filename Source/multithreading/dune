@@ -1,0 +1,14 @@
+(library
+    (name multithreading)
+    (modules multithreading))
+
+(library
+    (name multithreading_chineses_remaindert)
+    (modules chinese_remaindert)
+    (libraries builtin basic_arithmetics))
+
+(env
+  (dev
+    (flags (:standard -g -w -27-33-32-39)))
+  (release
+    (flags (:standard -O3))))
