@@ -1,0 +1,24 @@
+Hi! You are now in the repository of my first project at EPITA.
+
+I didn't upload the subject as it belongs to my school and 
+therefore I have no rights over it.
+
+I didn't upload the dune config which allows the project to compile 
+in the form that was programmed by the school neither. 
+
+What you can find in the source folder is only the code that I wrote 
+in the early stages of my programming journey. (very messy but it worked!)
+
+This project is a series of exercises about arithmetic and cryptography
+protocols such as RSA and El Gamal.
+
+The builtin folder contains the project in the classic form and the 
+scalable part is the project but using a reversed binary form for the 
+variables (It has been a long time so I am not sure if "reversed
+binary" is the correct term for the implementation we used).
+
+The multithrading part was a bonus part which I didn't do as it was too
+hard for me at the time, from what I remember it involved the chinese
+remainder theorem.
+
+I received a grade of 18 out of 20 for this project.
